@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/1gQNaH0QHNX3ZZM_-Du7DhiB2TX3AJhLC/view?usp=sharing)](https://alfitraaa.io)
+[![MasterHead](https://drive.google.com/file/d/1gQNaH0QHNX3ZZM_-Du7DhiB2TX3AJhLC/view)](https://alfitraaa.io)
 <h1 align="center">Hello, I'm Fariz Alfitra</h1>
 <h3 align="center">A Passionate Data Analyst from Indonesia</h3>
 
