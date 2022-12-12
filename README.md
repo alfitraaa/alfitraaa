@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQGe1HU7TM2pvQ/profile-displaybackgroundimage-shrink_350_1400/0/1670844834871?e=1676505600&v=beta&t=NxHmtuZjhjyVJN1NgO5MbLYlbcWa0DpiCgo4k4X6qyw)](https://alfitraaa.io)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQHiFCW0Y2xtQQ/profile-displaybackgroundimage-shrink_350_1400/0/1670846148873?e=1676505600&v=beta&t=mmSb8pMYR0k_5gK9HGYpXl6JjgwJlsQKUB3znAlWoVo)](https://alfitraaa.io)
 <h1 align="center">Hello, I'm Fariz Alfitra</h1>
 <h3 align="center">A Passionate Data Analyst from Indonesia</h3>
 
