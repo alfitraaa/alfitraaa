@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfitraaa&label=Profile%20views&color=0e75b6&style=flat" alt="alfitraaa" /> </p>
 
-- 🌱 I’m currently learning at **Al-Azhar University, Cairo**
+Undergraduate Student at Al-Azhar University, Cairo who has a passion for working as a **Data Analyst** or **Business Intelligence Analyst**. Skills related to: Visualize data with Tableau, Cleaning and formatting data using Excel and SQL, and Analyze data with Python.
 
-- 📫 How to reach me **farizalfitraaa@gmail.com**
+- 📫 You can reach me: **farizalfitraaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
