@@ -1,10 +1,9 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/D4D16AQE7k4TwZhrRGQ/profile-displaybackgroundimage-shrink_350_1400/0/1670846321226?e=1676505600&v=beta&t=ms-JgBvw4bxMkm-OMiExq3m8lfdHu8evTp8uojxH_Eg)](https://alfitraaa.io)
-<h1 align="center">Hello, I'm Fariz Alfitra</h1>
-<h3 align="center">A Passionate Data Analyst from Indonesia</h3>
+[![MasterHead](https://github.com/alfitraaa/alfitraaa/blob/main/Banner.png)](https://alfitraaa.io)
+<h1 align="center">Hello, my name is Fariz Alfitra</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfitraaa&label=Profile%20views&color=0e75b6&style=flat" alt="alfitraaa" /> </p>
 
-Undergraduate Student at Al-Azhar University, Cairo who has a passion for working as a **Data Analyst** or **Business Intelligence Analyst**. Skills related to: Visualize data with Tableau, Cleaning and formatting data using Excel and SQL, and Analyze data with Python.
+Final Year Student at Al-Azhar University, Cairo who has a passion for working as a **Data Analyst** or **Business Intelligence Analyst**. Skills related to: Visualize data with Tableau, Cleaning and formatting data using Excel and SQL, and Analyze data with Python.
 
 - 📫 You can reach me: **farizalfitraaa@gmail.com**
 
