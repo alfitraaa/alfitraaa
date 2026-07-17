@@ -29,7 +29,3 @@ TypeScript • React • TanStack Start • Supabase • PostgreSQL • Tailwind
 ## Approach
 
 Every project is developed with an emphasis on practicality, maintainability, and long-term usability. Rather than pursuing technology for its own sake, the focus is on building reliable solutions that address real operational challenges and create measurable value.
-
----
-
-Thank you for visiting this profile.
