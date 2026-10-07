@@ -1,6 +1,6 @@
-# Fariz Alfitra
-
-**Finance, Operations & Automation**
+<p align="center">
+  <img src="./banner.svg" alt="Fariz Alfitra | Finance, Operations & Automation" width="100%" />
+</p>
 
 I work across finance, operations, reporting, and automation, building practical systems that improve visibility, reduce manual work, and support better decisions.
 
