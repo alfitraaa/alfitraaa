@@ -1,42 +1,42 @@
 <p align="center">
-  <img src="./banner.svg" alt="Fariz Alfitra | Finance, Operations & Automation" width="100%" />
+  <img src="./banner.svg" alt="Fariz Alfitra | Finance, Operations & Business Systems" width="100%" />
 </p>
 
-I work across finance, operations, reporting, and automation, building practical systems that improve visibility, reduce manual work, and support better decisions.
+Work spans finance, operations, reporting, and business systems, with a focus on improving visibility, reducing manual work, and supporting better decisions.
 
-My background spans data analytics, financial analysis, FP&A, and organizational operations. I currently apply that experience across education foundations while building products and operational systems through Projecttt.
+Background includes data analytics, financial analysis, FP&A, and organizational operations. Current work applies that experience across education foundations while building products and operational systems through Projecttt.
 
 ## Featured Work
 
-### [Financial Reporting Transformation](https://alfitraaa.github.io/case-studies/financial-reporting-transformation.html)
+### Financial Reporting Transformation [↗](https://alfitraaa.github.io/case-studies/financial-reporting-transformation.html)
 Reconstructed and standardized historical financial records to create a more reliable reporting and reconciliation workflow.
 
-### [Finance Operations Reporting System](https://alfitraaa.github.io/case-studies/financial-operations-reporting-system.html)
+### Finance Operations Reporting System [↗](https://alfitraaa.github.io/case-studies/financial-operations-reporting-system.html)
 Designed a structured finance operations system to improve reporting consistency, transaction visibility, and management review.
 
-### [Project Governance & Construction Oversight](https://alfitraaa.github.io/case-studies/project-governance-construction-oversight.html)
+### Project Governance & Construction Oversight [↗](https://alfitraaa.github.io/case-studies/project-governance-construction-oversight.html)
 Built a clearer management approach for tracking project costs, vendors, payment stages, progress, and unresolved issues.
 
 ## Current Builds
 
-### [Projecttt](https://github.com/projectttco)
-An independent product and systems studio focused on practical tools built around real operational problems.
+### Projecttt [↗](https://github.com/projectttco)
+Independent product and systems studio focused on practical tools built around real operational problems.
 
 ### Pablo
-A private execution workspace designed to reduce manual coordination across complex projects and recurring work.
+Private execution workspace for coordinating complex projects, recurring work, and operational follow-up.
 
 ### Commerce Operations
-Building systems around product management, order workflows, operational tracking, and commerce automation.
+Systems for product management, order workflows, operational tracking, and commerce automation.
 
 ## Selected Repositories
 
-### [Super Cashier](https://github.com/alfitraaa/Super_Cashier)
+### Super Cashier [↗](https://github.com/alfitraaa/Super_Cashier)
 Python project covering transaction handling, business rules, validation, and automated regression testing.
 
-### [Supply Chain Analytics](https://github.com/alfitraaa/Supply_Analytics)
+### Supply Chain Analytics [↗](https://github.com/alfitraaa/Supply_Analytics)
 Supply chain analysis using Python and Power BI, covering shipment delays, inventory analysis, and data quality investigation.
 
-### [Cohort Retention Analysis](https://github.com/alfitraaa/Cohort_Analysis_Excel)
+### Cohort Retention Analysis [↗](https://github.com/alfitraaa/Cohort_Analysis_Excel)
 Excel-based cohort analysis covering customer retention, PivotTables, formulas, and business interpretation.
 
 ## Tools I Use
