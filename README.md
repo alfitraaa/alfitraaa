@@ -1,34 +1,48 @@
 # Fariz Alfitra
 
-Founder & Builder at **Projecttt Co.**, an independent product and systems studio focused on practical tools that reduce unnecessary manual work.
+**Finance, Operations & Automation**
 
-I build across **business automation, finance systems, data/BI, commerce operations, and AI-assisted workflows** — with a strong preference for systems that are useful in real operations, not just impressive demos.
+I work across finance, operations, reporting, and automation, building practical systems that improve visibility, reduce manual work, and support better decisions.
 
-## What I Work On
+My background spans data analytics, financial analysis, FP&A, and organizational operations. I currently apply that experience across education foundations while building products and operational systems through Projecttt.
 
-- **Business Systems & Automation** — workflows, internal tools, and operational automation
-- **Finance Systems & BI** — reporting, planning, dashboards, and process improvement
-- **Product & Operations Tools** — lightweight software built around real operating problems
-- **AI-Assisted Workflows** — practical use of AI for execution, review, research, and coordination
+## Featured Work
 
-## Selected Projects
+### [Financial Reporting Transformation](https://alfitraaa.github.io/case-studies/financial-reporting-transformation.html)
+Reconstructed and standardized historical financial records to create a more reliable reporting and reconciliation workflow.
+
+### [Finance Operations Reporting System](https://alfitraaa.github.io/case-studies/financial-operations-reporting-system.html)
+Designed a structured finance operations system to improve reporting consistency, transaction visibility, and management review.
+
+### [Project Governance & Construction Oversight](https://alfitraaa.github.io/case-studies/project-governance-construction-oversight.html)
+Built a clearer management approach for tracking project costs, vendors, payment stages, progress, and unresolved issues.
+
+## Current Builds
+
+### [Projecttt](https://github.com/projectttco)
+An independent product and systems studio focused on practical tools built around real operational problems.
 
 ### Pablo
-An AI-assisted execution workspace designed to reduce the amount of manual coordination required to complete complex work.
+A private execution workspace designed to reduce manual coordination across complex projects and recurring work.
 
-### Nadi
-A lightweight commerce operations layer that connects order flow, operational status, costs, and exceptions across existing tools.
+### Commerce Operations
+Building systems around product management, order workflows, operational tracking, and commerce automation.
 
-### Checkpoint
-A workflow application for managing streaming sessions, clips, and post-stream content operations.
+## Selected Repositories
 
-### Finance & Operations Systems
-A collection of reporting, planning, reconciliation, and process-improvement systems built for real operational use.
+### [Super Cashier](https://github.com/alfitraaa/Super_Cashier)
+Python project covering transaction handling, business rules, validation, and automated regression testing.
 
-## Tools I Commonly Use
+### [Supply Chain Analytics](https://github.com/alfitraaa/Supply_Analytics)
+Supply chain analysis using Python and Power BI, covering shipment delays, inventory analysis, and data quality investigation.
 
-Python • TypeScript • React • PostgreSQL • Supabase • Excel • Power BI • n8n • Git • GitHub
+### [Cohort Retention Analysis](https://github.com/alfitraaa/Cohort_Analysis_Excel)
+Excel-based cohort analysis covering customer retention, PivotTables, formulas, and business interpretation.
 
-## How I Build
+## Tools I Use
 
-I prefer **reuse before rebuild, clear operational value, low owner burden, and evidence from real usage**. The goal is simple: build systems that make work easier, clearer, and more scalable.
+Excel • Google Sheets • Power BI • Python • SQL • n8n • Supabase • Git
+
+## Links
+
+[Portfolio](https://alfitraaa.github.io/) • [Projecttt](https://github.com/projectttco) • [LinkedIn](https://www.linkedin.com/in/farizalfitra/)
